@@ -1,0 +1,220 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = الجمعـة 31 تشرين الأول 2014  17:55:59
+
+BeginCmp
+TimeStamp = /545385E5/54538837;
+Reference = B1;
+ValeurCmp = BALUN-JOHANSON;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/54538842;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/54538824;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/54538847;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/54538825;
+Reference = C3;
+ValeurCmp = 4.7uF;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/54538828;
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/5453885B;
+Reference = C5;
+ValeurCmp = 12pF;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/54538859;
+Reference = C6;
+ValeurCmp = 12pF;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/5453882B;
+Reference = C7;
+ValeurCmp = 100nF;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/54538851;
+Reference = C8;
+ValeurCmp = 0.1uF;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/5453882F;
+Reference = C9;
+ValeurCmp = 1nF;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/54538832;
+Reference = C10;
+ValeurCmp = 47nF;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/54538852;
+Reference = C11;
+ValeurCmp = 0.1uF;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/54538831;
+Reference = C12;
+ValeurCmp = 2.2nF;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/54538855;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/5453883F;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/5453883E;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/54538835;
+Reference = IC1;
+ValeurCmp = NRF51822;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/54538823;
+Reference = L1;
+ValeurCmp = 15nH;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/54538843;
+Reference = L2;
+ValeurCmp = INDUCTOR;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/54538822;
+Reference = L3;
+ValeurCmp = 10uH;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/5453884B;
+Reference = P1;
+ValeurCmp = AIN_0_3;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/5453885D;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/5453884E;
+Reference = P3;
+ValeurCmp = AIN_4_7;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/54538840;
+Reference = R1;
+ValeurCmp = 100R;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/54538841;
+Reference = R2;
+ValeurCmp = 100R;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/5453882D;
+Reference = R3;
+ValeurCmp = 12K;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/54538853;
+Reference = SW1;
+ValeurCmp = SWITCH-4;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/54538854;
+Reference = SW2;
+ValeurCmp = SWITCH-4;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/54538839;
+Reference = U1;
+ValeurCmp = ANTENNA-NC;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /545385E5/5453884A;
+Reference = X1;
+ValeurCmp = NX2520SA;
+IdModule  = ;
+EndCmp
+
+EndListe

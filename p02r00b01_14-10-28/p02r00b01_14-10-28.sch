@@ -29,6 +29,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:p02r00b01_14-10-28-cache
 LIBS:proximity-cache
 EELAYER 27 0
 EELAYER END
@@ -36,7 +37,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 2
 Title ""
-Date "28 oct 2014"
+Date "31 oct 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -45,11 +46,9 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 1500 1450 1500 950 
-U 544F4556
-F0 "BLE Module" 50
-F1 "BLE.sch" 50
-F2 "USB+" B R 3000 1700 60 
-F3 "USB-" B R 3000 1850 60 
+S 2550 2000 2050 900 
+U 545385E5
+F0 "BLE module" 50
+F1 "BLEmodule.sch" 50
 $EndSheet
 $EndSCHEMATC
